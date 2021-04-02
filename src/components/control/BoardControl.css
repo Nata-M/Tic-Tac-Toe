@@ -1,0 +1,12 @@
+.BoardControl {
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+  background-color: #FFBB02;
+  border-radius: 8px;
+  justify-content: center;
+  box-shadow: 8px 8px 8px rgb(102, 100, 100);
+  position: absolute;
+  left: 35%;
+  top: 25vh;
+}

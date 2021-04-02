@@ -1,0 +1,13 @@
+.Header {
+  display: flex;
+  align-items: center;
+  padding: 32px 0;
+  justify-content: space-between;
+  border-bottom: 1px solid #e6e1e1;
+}
+.draw {
+  font-size: 24px;
+  color: green;
+  display: inline-block;
+  margin-right: 120px;
+}
